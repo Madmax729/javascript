@@ -1,0 +1,3 @@
+thsi is admn file
+this is for featur1 branch 
+pushing it into remote branch 
